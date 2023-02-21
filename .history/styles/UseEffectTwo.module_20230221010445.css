@@ -1,0 +1,13 @@
+.main {
+    text-align: center;
+    font-size: 30px;
+}
+
+.heading {
+    font-size: 50px;
+    color: var(--purple);
+}
+
+.number {
+    font-size: 40px;
+}

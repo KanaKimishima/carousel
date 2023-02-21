@@ -1,0 +1,9 @@
+.main {
+    text-align: center;
+    
+}
+
+.heading {
+    size:50px
+    color: var(--purple);
+}

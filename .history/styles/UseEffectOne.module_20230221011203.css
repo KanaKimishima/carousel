@@ -1,0 +1,11 @@
+.main {
+    text-align: center;
+}
+
+.heading {
+    font-size: 50px;
+}
+
+.number {
+    color: var(--purple);
+}
